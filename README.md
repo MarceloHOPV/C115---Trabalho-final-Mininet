@@ -1770,7 +1770,7 @@ mininet> h1 ip a
        valid_lft forever preferred_lft forever
 ```
 ## Etapa 2-c: Crie o diagrama
-![alt text](DiagramaRoteadorsS.png)
+![alt text](DiagramaRoteadorsS.jpg)
 
 ## Etapa 2-d: Teste de ping
 ```bash
