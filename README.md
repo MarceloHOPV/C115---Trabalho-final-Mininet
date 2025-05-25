@@ -722,7 +722,7 @@ Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
 ```
 ## ✅ Etapa 1-c: Desenho ilustrativo da topologia
 
-![Topologia Árvore](imagens/topologia_arvore_mininet.png)
+![Topologia Árvore](topologia_arvore_mininet.png)
 
 
 
